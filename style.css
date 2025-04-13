@@ -5,3 +5,20 @@
   width: 50px;
   height: auto;
 }
+.main-header {
+  padding-top: 100px;
+}
+.subscribe {
+  background-image: url(./img/subscribe.jpg);
+  /* cho ảnh tự động giản ra để vừa với khung chứa  nónó */
+  background-size: cover;
+  /* căn giữa ảnh */
+  background-position: center;
+}
+.brain-icon img {
+  width: 130px;
+}
+.blur-filter {
+  backdrop-filter: blur(5px);
+  background-color: #cccccc24;
+}
